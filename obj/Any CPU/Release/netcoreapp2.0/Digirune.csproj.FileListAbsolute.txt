@@ -1,0 +1,11 @@
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Any CPU\Release\netcoreapp2.0\Digirune.deps.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Any CPU\Release\netcoreapp2.0\Digirune.runtimeconfig.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Any CPU\Release\netcoreapp2.0\Digirune.runtimeconfig.dev.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Any CPU\Release\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Any CPU\Release\netcoreapp2.0\Digirune.pdb
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.csprojResolveAssemblyReference.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.csproj.CoreCompileInputs.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.AssemblyInfoInputs.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.AssemblyInfo.cs
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Any CPU\Release\netcoreapp2.0\Digirune.pdb

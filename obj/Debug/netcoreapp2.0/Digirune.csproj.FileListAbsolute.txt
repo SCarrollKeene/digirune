@@ -1,0 +1,22 @@
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.deps.json
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.runtimeconfig.json
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.runtimeconfig.dev.json
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.csprojResolveAssemblyReference.cache
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.csproj.CoreCompileInputs.cache
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.AssemblyInfoInputs.cache
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.AssemblyInfo.cs
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.pdb
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Documents\Visual Studio 2017\Projects\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.pdb
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.deps.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.runtimeconfig.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.runtimeconfig.dev.json
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\bin\Debug\netcoreapp2.0\Digirune.pdb
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.csprojResolveAssemblyReference.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.csproj.CoreCompileInputs.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.AssemblyInfoInputs.cache
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.AssemblyInfo.cs
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.dll
+C:\Users\sckil\Desktop\Adcanced C#\Digirune\Digirune\obj\Debug\netcoreapp2.0\Digirune.pdb
